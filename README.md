@@ -5,4 +5,4 @@ CodeWars tasks solutions with different complexity (from the easiest - 8kyu to h
 
 # SomeNewText 2
 
-# SomeNewText 3
+# SomeNewText 4
